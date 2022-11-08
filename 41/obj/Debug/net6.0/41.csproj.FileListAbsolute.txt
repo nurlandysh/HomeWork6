@@ -1,0 +1,15 @@
+/Users/ilfatsh/Desktop/3_6/41/obj/Debug/net6.0/41.csproj.AssemblyReference.cache
+/Users/ilfatsh/Desktop/3_6/41/obj/Debug/net6.0/41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilfatsh/Desktop/3_6/41/obj/Debug/net6.0/41.AssemblyInfoInputs.cache
+/Users/ilfatsh/Desktop/3_6/41/obj/Debug/net6.0/41.AssemblyInfo.cs
+/Users/ilfatsh/Desktop/3_6/41/obj/Debug/net6.0/41.csproj.CoreCompileInputs.cache
+/Users/ilfatsh/Desktop/3_6/41/bin/Debug/net6.0/41
+/Users/ilfatsh/Desktop/3_6/41/bin/Debug/net6.0/41.deps.json
+/Users/ilfatsh/Desktop/3_6/41/bin/Debug/net6.0/41.runtimeconfig.json
+/Users/ilfatsh/Desktop/3_6/41/bin/Debug/net6.0/41.dll
+/Users/ilfatsh/Desktop/3_6/41/bin/Debug/net6.0/41.pdb
+/Users/ilfatsh/Desktop/3_6/41/obj/Debug/net6.0/41.dll
+/Users/ilfatsh/Desktop/3_6/41/obj/Debug/net6.0/refint/41.dll
+/Users/ilfatsh/Desktop/3_6/41/obj/Debug/net6.0/41.pdb
+/Users/ilfatsh/Desktop/3_6/41/obj/Debug/net6.0/41.genruntimeconfig.cache
+/Users/ilfatsh/Desktop/3_6/41/obj/Debug/net6.0/ref/41.dll
